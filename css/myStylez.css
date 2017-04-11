@@ -1,0 +1,90 @@
+#topHeadingPart {
+	text-align: center; 
+	background-image: url("../images/title.JPEG");
+	padding-top: .2em;
+	padding-bottom: .2em;
+	font-size: 3em;
+	color: #d580ff;
+	font-family: 'Titan One', cursive;
+	font-weight: 300;
+}
+
+.background {
+	background-image: url("../images/rain.JPEG");
+}
+
+.dropButton {
+	font-family: 'Titan One', cursive;
+	font-size: 1.7em; 
+	color: #ffff99;
+	background-color: transparent;
+	border-color: transparent;
+	padding-top: 2.5em;
+	position: absolute;
+	display: block;
+	width: 100%;
+}
+
+.dropDownn {
+	position: relative; 
+	text-align: center; 
+	display: block;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menuLinks {
+	display: none; 
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	font-size: 1.2em;
+}
+
+.dropDownn:hover .menuLinks {
+	display: block; 
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+.menuLinks a {
+	color: #ff99cc;
+	display: block;
+	font-family: 'Titan One', cursive; 
+}
+
+.padding {
+	padding-top: 126px;
+}
+
+a:hover {
+	color: white; 
+}
+
+.mySlides { 
+	text-align: center; 
+	padding-top: 10em;
+}
+
+.subtitle {
+	font-family: 'Titan One', cursive; 
+	color: #ff99cc;
+	text-align: center; 
+	font-size: 3em;
+	background-image: url("../images/subtitle.JPEG");
+	padding-bottom: 1.5em;
+	padding-top: 1.5em;
+}
+
+.list {
+	padding: 5em;
+	font-family: 'Titan One', cursive; 
+	color: white;
+	text-align: center;
+	font-size: 2em;
+}
+
